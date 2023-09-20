@@ -1,4 +1,4 @@
-/*  The standard CSS for doxygen 1.9.7*/
+/* The standard CSS for doxygen 1.9.7*/
 
 html {
 /* page base colors */
@@ -749,7 +749,7 @@ img.light-mode-visible {
 }
 
 img.formulaDsp {
-
+	
 }
 
 img.formulaInl, img.inline {
@@ -818,19 +818,19 @@ span.xmlcdata {
 	color: var(--code-xml-cdata-color);
 }
 
-span.vhdldigit {
+span.vhdldigit { 
 	color: var(--code-vhdl-digit-color);
 }
 
-span.vhdlchar {
+span.vhdlchar { 
 	color: var(--code-vhdl-char-color);
 }
 
-span.vhdlkeyword {
+span.vhdlkeyword { 
 	color: var(--code-vhdl-keyword-color);
 }
 
-span.vhdllogic {
+span.vhdllogic { 
 	color: var(--code-vhdl-logic-color);
 }
 
@@ -1555,12 +1555,12 @@ dl.section dd {
 	vertical-align: bottom;
 	border-collapse: separate;
 }
-
+ 
 #projectlogo img
-{
+{ 
 	border: 0px none;
 }
-
+ 
 #projectalign
 {
         vertical-align: middle;
